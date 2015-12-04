@@ -1,0 +1,2 @@
+# Template
+Azure IT camp
